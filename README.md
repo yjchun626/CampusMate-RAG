@@ -6,7 +6,7 @@
 
 ## 🌟 서비스 데모
 
-- **배포된 App으로 실시간 체험([Streamlit Cloud 링크](https://campusmate-rag.streamlit.app/)**  
+- **배포된 [Streamlit App](https://campusmate-rag.streamlit.app/)**으로 실시간 체험
 
 ---
 
