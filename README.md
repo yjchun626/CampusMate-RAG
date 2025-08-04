@@ -6,7 +6,7 @@
 
 ## 🌟 서비스 데모
 
-- **배포된 [Streamlit App](https://campusmate-rag.streamlit.app/)**으로 실시간 체험
+- **배포된 [Streamlit App](https://campusmate-rag.streamlit.app/)으로 실시간 체험**
 
 ---
 
@@ -72,4 +72,4 @@ pip install -r requirements.txt
 ```python
 streamlit run app.py
 ```
-- 실행 후 주소(예: http://localhost:8501)에서 확인
+- 실행 후 주소(예: `http://localhost:8501`)에서 확인
