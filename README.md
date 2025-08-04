@@ -4,6 +4,12 @@
 
 ---
 
+## 🌟 서비스 데모
+
+- **배포된 App으로 실시간 체험([Streamlit Cloud 링크](https://campusmate-rag.streamlit.app/)**  
+
+---
+
 ## ✨ 주요 기능
 
 - 자연어로 일정/공지(예: “8월 3일 운동 뭐 있어?”, “장학금 모집 안내”) 검색
