@@ -7,6 +7,7 @@
 ## 🌟 서비스 데모
 
 - **배포된 [Streamlit App](https://campusmate-rag.streamlit.app/)으로 실시간 체험**
+- **[Notion 프로젝트 포트폴리오](https://bronze-enquiry-60b.notion.site/CampusMate-RAG-Personalized-ToDo-Univ-Announcement-RAG-Search-System-244c494e05e5800da641fbb45b482b37?source=copy_link)** (📑 상세 기술구조, 문제해결 프로세스 등)
 
 ---
 
